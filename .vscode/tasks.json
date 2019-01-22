@@ -1,0 +1,8 @@
+{
+    "version": "2.0.0",
+    "command": "clang++",
+    "type": "shell",
+    "args": ["*.cpp", "-std=c++17", "-g", "-o", "m"],
+    "reveal": "always",
+    "problemMatchers": []
+}
