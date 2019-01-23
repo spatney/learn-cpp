@@ -4,7 +4,7 @@
         {
             "label": "clang++",
             "command": "clang++",
-            "args": ["*.cpp", "-std=c++17", "-g", "-o", "m"],
+            "args": ["**/*.cpp", "-std=c++17", "-g", "-o", "m"],
             "group": {
                 "kind": "build",
                 "isDefault": true
