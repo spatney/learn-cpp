@@ -1,4 +1,4 @@
-void minMax(int *begin, int *end, int **smallest, int **largest)
+void minMax(long *begin, long *end, long **smallest, long **largest)
 {
     if (begin == end)
     {

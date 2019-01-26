@@ -1,3 +1,3 @@
-void minMax(int *, int *, int **, int **);
-void fillArray(int *, long);
+void minMax(long *, long *, long **, long **);
+void fillArray(long *, long);
 void reverse(char *);
